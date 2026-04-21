@@ -12,7 +12,7 @@
 
 ---
 
-# ⚡ Sakariye Xasan
+# ⚡ Zakaria Hazzan
 
 ### 💎 Full Stack Software Engineer | System Builder | Problem Solver
 
