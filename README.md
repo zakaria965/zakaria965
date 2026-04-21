@@ -1,7 +1,12 @@
-# <p align="center">🎮 MISSION LOG: ZAKARIA965 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1b27&height=200&section=header&text=WELCOME%20TO%20THE%20LOBBY&fontSize=50&animation=fadeIn&fontColor=70a5fd" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Zakaria%20Hazzan&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Software%20Engineer&descSize=18&descAlignY=70" />
+</p>
+
+<!-- ================= FUTURISTIC TYPING ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Building+Scalable+Systems;Flutter+%7C+Django+%7C+Cloud;Turning+Ideas+Into+Reality🚀" />
 </p>
 
 ## 👤 Profile Overview
@@ -16,13 +21,11 @@
     </td>
     <td width="70%">
       <h3>👋 Hi there, I'm Zakaria!</h3>
-      <p><i>"A passionate and progressive creator with ambitions to elevate the tech ecosystem."</i></p>
+      <p><i>"### 💎 Full Stack Software Engineer | System Builder | Problem Solver "</i></p>
       <hr />
-      <ul>
-        <li>🌍 Based in: <b>Earth</b></li>
-        <li>🚀 Currently working on: <b>Scaling Innovation</b></li>
-        <li>⚡ Fun fact: <b>I code faster than a 144Hz refresh rate.</b></li>
-      </ul>
+### <p>A passionate and progressive creator with ambitions to elevate the tech ecosystem.</p>
+
+> **"Engineering scalable solutions, crafting clean architectures, and delivering impactful digital experiences."**
     </td>
   </tr>
 </table>
@@ -42,12 +45,47 @@
 ---
 
 ## 🛠 Weaponry (Tech Stack)
+
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
 | **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
 | **Database** | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |    <p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,django,python,java,js,firebase,postgres,git,github,docker,vscode" />
+  ## ⚔️ Weaponry & Tech Inventory
+
+### 🖥️ Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,dart,go,rust,php,html,css" />
+</p>
+
+### 🚀 Frameworks & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,django,react,nextjs,nodejs,express,fastapi,spring,tailwind,bootstrap" />
+</p>
+
+### 🗄️ Infrastructure & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,mongodb,redis,sqlite,docker,kubernetes,aws,gcp" />
+</p>
+
+### 🛠️ Tactical Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,pcharm,idea,androidstudio,linux,postman,figma" />
+</p>
+
+---
+
+## 📈 Live Combat Data
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakaria965&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria965&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=bf91f3" width="45%" />
+
+  
+</p>
+</p> 
+
 
 ---
 
