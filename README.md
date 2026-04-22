@@ -63,7 +63,7 @@
 
 ### 🛠️ Tactical Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,androidstudio,linux,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,androidstudio,linux,postman,figma,stich" />
 </p>
 
 ---
