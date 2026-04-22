@@ -48,7 +48,7 @@
 
 ### 🖥️ Languages & Core
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,dart,go,rust,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,dart,php,html,css" />
 </p>
 
 ### 🚀 Frameworks & Platforms
